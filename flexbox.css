@@ -1,0 +1,19 @@
+.parent {
+    border: 2px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  
+  .pg {
+    display: inline-block;
+    border: 1px;
+    padding: 2rem 2rem;
+    vertical-align: middle;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  
